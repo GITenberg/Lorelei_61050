@@ -1,0 +1,26 @@
+_repo: Lorelei_61050
+_version: 0.0.1
+creator:
+  author:
+    agent_name: De Vet, Charles V.
+    aliases:
+    - Vet, Charles Vincent de
+    - Vet, Charles V. de
+    - DeVet, Charles V.
+    birthdate: 1911
+    deathdate: 1997
+    gutenberg_agent_id: '32106'
+    url: http://www.gutenberg.org/2009/agents/32106
+description: ''
+gutenberg_issued: '2019-12-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61050'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Lorelei
+url: http://www.gutenberg.org/ebooks/61050
